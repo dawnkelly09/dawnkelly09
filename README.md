@@ -4,26 +4,26 @@
 - 💞️ I’m looking to collaborate on coding challenges that will stretch my abilities and help me show myself what I can accomplish.
 
 Current focus: 
-<br>
+<br><br>
 
 FreeCodeCamp-Responsive Web Design Certification <br>
-  Basic HTML & HTML5 (complete)
-  Basic CSS (complete)
-  Applied Visual Design (complete)
-  Applied Accessibility (complete)
-  Responsive Web Design Principles (in progress)
-  CSS Flexbox
-  CSS Grid
-  
-  Projects:
-    Tribute Page
-    Survey Form
-    Product Landing Page
-    Technical Documentation Page
-    Personal Portfolio Web Page
-    
-  GitHub Learning Lab 
-    Introduction to GitHub
+  Basic HTML & HTML5 (complete) <br>
+  Basic CSS (complete) <br>
+  Applied Visual Design (complete) <br>
+  Applied Accessibility (complete) <br>
+  Responsive Web Design Principles (in progress) <br>
+  CSS Flexbox <br>
+  CSS Grid <br>
+  <br><br>
+  Projects: <br>
+    Tribute Page <br>
+    Survey Form <br>
+    Product Landing Page <br>
+    Technical Documentation Page<br>
+    Personal Portfolio Web Page <br>
+    <br><br>
+  GitHub Learning Lab <br>
+    Introduction to GitHub <br>
     
   
 
