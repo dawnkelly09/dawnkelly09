@@ -6,7 +6,7 @@
 Current focus: 
 <br><br>
 
-FreeCodeCamp-Responsive Web Design Certification <br>
+FreeCodeCamp-Responsive Web Design Certification <br><br>
   Basic HTML & HTML5 (complete) <br>
   Basic CSS (complete) <br>
   Applied Visual Design (complete) <br>
@@ -15,14 +15,14 @@ FreeCodeCamp-Responsive Web Design Certification <br>
   CSS Flexbox <br>
   CSS Grid <br>
   <br><br>
-  Projects: <br>
+  Projects: <br><br>
     Tribute Page <br>
     Survey Form <br>
     Product Landing Page <br>
     Technical Documentation Page<br>
     Personal Portfolio Web Page <br>
     <br><br>
-  GitHub Learning Lab <br>
+  GitHub Learning Lab <br><br>
     Introduction to GitHub <br>
     
   
