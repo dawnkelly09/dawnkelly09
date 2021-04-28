@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on coding challenges that will stretch my abilities and help me show myself what I can accomplish.
 
 Current focus: 
+<br>
 
-FreeCodeCamp-Responsive Web Design Certification
+FreeCodeCamp-Responsive Web Design Certification <br>
   Basic HTML & HTML5 (complete)
   Basic CSS (complete)
   Applied Visual Design (complete)
