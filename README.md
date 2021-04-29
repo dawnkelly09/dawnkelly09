@@ -13,10 +13,10 @@ FreeCodeCamp-Responsive Web Design Certification <br><br>
   Applied Accessibility (complete) <br>
   Responsive Web Design Principles (complete) <br>
   CSS Flexbox (complete) <br>
-  CSS Grid (in progress) <br>
+  CSS Grid (complete) <br>
   <br><br>
   Projects: <br><br>
-    Tribute Page <br>
+    Tribute Page (in progress)<br>
     Survey Form <br>
     Product Landing Page <br>
     Technical Documentation Page<br>
