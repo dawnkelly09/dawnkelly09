@@ -16,8 +16,8 @@ FreeCodeCamp-Responsive Web Design Certification <br><br>
   CSS Grid (complete) <br>
   <br><br>
   Projects: <br><br>
-    Tribute Page (in progress)<br>
-    Survey Form <br>
+    Tribute Page complete)<br>
+    Survey Form (in progress)<br>
     Product Landing Page <br>
     Technical Documentation Page<br>
     Personal Portfolio Web Page <br>
