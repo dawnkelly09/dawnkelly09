@@ -17,10 +17,10 @@ FreeCodeCamp-Responsive Web Design Certification <br><br>
   <br><br>
   Projects: <br><br>
     Tribute Page complete)<br>
-    Survey Form (in progress)<br>
-    Product Landing Page <br>
-    Technical Documentation Page<br>
-    Personal Portfolio Web Page <br>
+    Survey Form (complete)<br>
+    Product Landing Page (complete) <br>
+    Technical Documentation Page (complete)<br>
+    Personal Portfolio Web Page (in progress) <br>
     <br><br>
   GitHub Learning Lab <br><br>
     Introduction to GitHub <br>
