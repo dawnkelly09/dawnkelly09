@@ -6,22 +6,16 @@
 Current focus: 
 <br><br>
 
-FreeCodeCamp-Responsive Web Design Certification <br><br>
-  Basic HTML & HTML5 (complete) <br>
-  Basic CSS (complete) <br>
-  Applied Visual Design (complete) <br>
-  Applied Accessibility (complete) <br>
-  Responsive Web Design Principles (complete) <br>
-  CSS Flexbox (complete) <br>
-  CSS Grid (complete) <br>
-  <br><br>
-  Projects: <br><br>
-    Tribute Page complete)<br>
-    Survey Form (complete)<br>
-    Product Landing Page (complete) <br>
-    Technical Documentation Page (complete)<br>
-    Personal Portfolio Web Page (in progress) <br>
-    <br><br>
+FreeCodeCamp-Responsive Web Design Certification (Completed May 11, 2021)<br><br>
+FreeCode Camp-JavaScript Algorithms and Data Structures Certification<br><br>
+  Projects:<br><br>
+  Palindrome Checker<br>
+  Roman Numeral Converte<br>
+  Caesar's Cipher<br>
+  Telephone Number Validator<br>
+  Cash Register<br><br>
+  
+
   GitHub Learning Lab <br><br>
     Introduction to GitHub <br>
     
