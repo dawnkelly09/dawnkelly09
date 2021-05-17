@@ -8,16 +8,9 @@ Current focus:
 
 FreeCodeCamp-Responsive Web Design Certification (Completed May 11, 2021)<br><br>
 FreeCode Camp-JavaScript Algorithms and Data Structures Certification<br><br>
-  Projects:<br><br>
-  Palindrome Checker<br>
-  Roman Numeral Converte<br>
-  Caesar's Cipher<br>
-  Telephone Number Validator<br>
-  Cash Register<br><br>
-  
+WordPress? <br><br>
 
-  GitHub Learning Lab <br><br>
-    Introduction to GitHub <br>
+
     
   
 
