@@ -8,7 +8,7 @@ Current focus:
 
 FreeCodeCamp-Responsive Web Design Certification (Completed May 11, 2021)<br><br>
 FreeCode Camp-JavaScript Algorithms and Data Structures Certification<br><br>
-Udacity-Intro to JavaScript<br><br>
+Udacity-Intro to JavaScript (Completed June 12, 2021)<br><br>
 WordPress? <br><br>
 
 
