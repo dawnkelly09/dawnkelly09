@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dawnkelly09
 - 👀 I’m interested in transitioning from nursing to a career in web development.
-- 🌱 I am building a learning path for front end web development.
-- 💞️ I’m looking to collaborate on coding challenges that will stretch my abilities and help me show myself what I can accomplish.
+- 🌱 I am a web developer who is learning out loud and building in public. 
+- 💞️ I’m looking for work! Seriously. 
 
 Current focus: 
 <br><br>
@@ -15,7 +15,8 @@ Future Endeavors:<br><br>
 FreeCode Camp Front End Development Libraries<br>
 
 
-Obsessed with Webflow <br>
+Obsessed with Webflow <br><br>
+I started a blog on hashnode! https://dawnkelly.hashnode.dev/why-you-should-hire-nurses-for-tech-careers
 
 
     
