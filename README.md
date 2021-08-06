@@ -6,6 +6,7 @@
 Current focus: 
 <br><br>
 FreeCode Camp-JavaScript Algorithms and Data Structures Certification<br>
+Udacity: Introduction to Python Programming<br>
 <br><br>
 Completed learning:<br><br>
 FreeCodeCamp-Responsive Web Design Certification (Completed May 11, 2021)<br>
