@@ -5,16 +5,19 @@
 
 Current focus: 
 <br><br>
+Udemy Ultimate Python Bootcamp for Data Science and Machine Learning<br>
 FreeCode Camp-JavaScript Algorithms and Data Structures Certification<br>
-Udacity: Introduction to Python Programming<br>
+
 <br><br>
 Completed learning:<br><br>
 FreeCodeCamp-Responsive Web Design Certification (Completed May 11, 2021)<br>
 Udacity-Intro to JavaScript (Completed June 12, 2021)<br>
+Udacity: Introduction to Python Programming (Completed August 30, 2021)<br>
 <br><br>
 Future Endeavors:<br><br>
-Udemy Ultimate Python Bootcamp for Data Science and Machine Learning<br>
-
+Flask<br>
+Django<br>
+World domination? 
 
 Obsessed with Webflow <br><br>
 I started a blog on hashnode! https://dawnkelly.hashnode.dev/why-you-should-hire-nurses-for-tech-careers
