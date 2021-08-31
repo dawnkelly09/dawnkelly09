@@ -5,8 +5,8 @@
 
 Current focus: 
 <br><br>
-Udemy Ultimate Python Bootcamp for Data Science and Machine Learning<br>
-FreeCode Camp-JavaScript Algorithms and Data Structures Certification<br>
+Codecademy Analyze Data with Python<br>
+FreeCode Camp-JavaScript Algorithms and Data Structures Certification (on hold)<br>
 
 <br><br>
 Completed learning:<br><br>
@@ -15,7 +15,7 @@ Udacity-Intro to JavaScript (Completed June 12, 2021)<br>
 Udacity: Introduction to Python Programming (Completed August 30, 2021)<br>
 <br><br>
 Future Endeavors:<br><br>
-Flask<br>
+Codecademy Build Python Web Apps with Flask<br>
 Django<br>
 World domination? 
 
