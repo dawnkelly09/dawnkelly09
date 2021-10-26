@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @dawnkelly09
-- 👀 I’m interested in transitioning from nursing to a career in data science/analysis.
-- 🌱 I am a developer who is learning out loud and building in public. 
+- 👋 Hi, I’m Dawn Kelly
+- 👀 I’m building a data analyst career.
+- 🌱 I love Python, no code front-end tools, and occasionally dabbling in the dark arts of crypto and Web3. 
 - 💞️ I’m looking for work! Seriously. 
 
 Current focus: 
 <br><br>
-Codecademy Analyze Data with Python<br>
-FreeCode Camp-JavaScript Algorithms and Data Structures Certification (on hold)<br>
+Codecademy Data Analysis Career Path<br>
+
 
 <br><br>
 Completed learning:<br><br>
@@ -15,6 +15,7 @@ Udacity-Intro to JavaScript (Completed June 12, 2021)<br>
 Udacity: Introduction to Python Programming (Completed August 30, 2021)<br>
 <br><br>
 Future Endeavors:<br><br>
+FreeCode Camp-JavaScript Algorithms and Data Structures Certification (on hold)<br>
 Codecademy Build Python Web Apps with Flask<br>
 Django<br>
 World domination? 
