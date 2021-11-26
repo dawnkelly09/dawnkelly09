@@ -6,6 +6,7 @@
 Current focus: 
 <br><br>
 Codecademy Data Analysis Career Path<br>
+Solidity!!!!
 
 
 <br><br>
