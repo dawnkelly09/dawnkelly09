@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dawn Kelly
-- 👀 I’m building a data analyst career.
+- 👀 I’m building a fullstack dev career.
 - 🌱 I love Python, no code front-end tools, and practicing the dark arts of crypto and Web3. 
 - 💞️ I’m looking for work! Seriously. 
 
