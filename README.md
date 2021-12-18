@@ -5,8 +5,11 @@
 
 Current focus: 
 <br><br>
-Codecademy Data Analysis Career Path<br>
-Solidity!!!!
+Solidity!!!!<br>
+Building all the Buildspace projects I can get my hands on<br>
+Developer DAO<br>
+Learn Web3 DAO<br>
+Working to build enough front end skills to make what I can imagine come to life<br>
 
 
 <br><br>
