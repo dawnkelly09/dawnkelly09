@@ -6,7 +6,7 @@
 Current focus: 
 <br><br>
 Solidity!!!!<br>
-Building all the Buildspace projects I can get my hands on<br>
+Building all the Buildspace projects I can get my hands on (3 complete as of 12.18.2021)<br>
 Developer DAO<br>
 Learn Web3 DAO<br>
 Working to build enough front end skills to make what I can imagine come to life<br>
