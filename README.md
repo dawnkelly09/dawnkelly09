@@ -17,7 +17,9 @@ Working to build enough front end skills to make what I can imagine come to life
 
 
 Obsessed with Webflow <br><br>
-I started a blog on hashnode! https://dawnkelly.hashnode.dev/why-you-should-hire-nurses-for-tech-careers
+Blogs:<br>
+Medium: Dawn Kelly (https://medium.com/@dawnkelly09) <br>
+Hashnode: Avocado Cat Things (https://devreldawn.hashnode.dev/) <br>
 
 
     
