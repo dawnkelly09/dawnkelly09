@@ -7,19 +7,17 @@ Current focus:
 <br><br>
 All things decentralized storage<br>
 Solidity!!!!<br>
-Buildspace projects (3 complete as of 12.18.2021)<br>
+Buildspace<br>
 Developer DAO<br>
-Learn Web3 DAO<br>
 Women Build Web3 DAO<br>
+Blu3 DAO<br>
 100 Devs with Leon Noel<br>
 Working to build enough front end skills to make what I can imagine come to life<br>
 
 
+Sometimes I do workshops:<br>
 
-Obsessed with Webflow <br><br>
-Blogs:<br>
-Medium: Dawn Kelly (https://medium.com/@dawnkelly09) <br>
-Hashnode: Avocado Cat Things (https://devreldawn.hashnode.dev/) <br>
+[Filecoin & IPFS 101: 1, 2, Web3 Hackathon with Moralis](https://www.youtube.com/watch?v=aTyP_gZkQy0)
 
 
     
