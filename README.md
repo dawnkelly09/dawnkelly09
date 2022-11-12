@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Dawn Kelly
 - 👀 I’m a Developer Advocate at Filecoin.
 - 🌱 I love Solidity, no code front-end tools, and practicing the dark arts of crypto and Web3. 
-- 💞️ Other orgs: Developer DAO, Women Build Web3, Blu3 DAO
+- 💞️ Other orgs: Developer DAO, Women Build Web3, BuildSpace alumni
 
 Current focus: 
 <br><br>
-All things decentralized storage<br>
+All things decentralized storage and data nerdy<br>
 Solidity!!!!<br>
 Buildspace<br>
 Developer DAO<br>
