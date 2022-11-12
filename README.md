@@ -10,7 +10,6 @@ Solidity!!!!<br>
 Buildspace<br>
 Developer DAO<br>
 Women Build Web3 DAO<br>
-Blu3 DAO<br>
 100 Devs with Leon Noel<br>
 Working to build enough front end skills to make what I can imagine come to life<br>
 
