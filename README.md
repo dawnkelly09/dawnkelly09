@@ -1,12 +1,15 @@
 - 👋 Hi, I’m Dawn Kelly
-- 👀 I’m a Developer Advocate at Filecoin.
+- 👀 I’m an Engineer & Developer Advocate at Filecoin.
 - 🌱 Always learning something new.  
 - 💞️ Other orgs: Developer DAO, Women Build Web3, BuildSpace alumni
 
 Current focus: 
 <br><br>
 All things decentralized storage and data nerdy<br>
+Working with some of the best folks in the space to optimize Filecoin<br>
 React/Next JS<br>
+Trying to build a Go, Python, Rust stack for myself<br>
+Working on my Bachelor's in Software Engineering. I'd love to know if you have a grant or scholarship for me!<br>
 Buildspace<br>
 Developer DAO<br>
 Women Build Web3 DAO<br>
