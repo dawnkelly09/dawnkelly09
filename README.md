@@ -5,9 +5,8 @@
 
 Current focus: 
 <br><br>
-React/Next JS<br>
 AI and LLMs/NLP<br>
-Trying to learn some Python for the AI arena<br>
+Python for the AI arena<br>
 Really interested in AI as a tool to elevate e-commerce experiences<br>
 Working on my Bachelor's in Software Engineering. I'd love to know if you have a grant or scholarship for me!<br>
 Buildspace<br>
