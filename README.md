@@ -8,6 +8,7 @@ Current focus:
 AI and LLMs/NLP<br>
 Python for the AI arena<br>
 Really interested in AI as a tool to elevate e-commerce experiences<br>
+Python bots live on [Replit](https://replit.com/@dawnkelly09) at the moment<br>
 Working on my Bachelor's in Software Engineering. I'd love to know if you have a grant or scholarship for me!<br>
 Buildspace<br>
 Developer DAO<br>
