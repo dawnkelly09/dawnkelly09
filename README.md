@@ -5,6 +5,7 @@
 
 Current focus: 
 <br><br>
+Cyfrin Updraft courses<br>
 AI and LLMs/NLP<br>
 Python for the AI arena<br>
 Really interested in AI as a tool to elevate e-commerce experiences<br>
