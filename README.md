@@ -1,20 +1,15 @@
 - 👋 Hi, I’m Dawn Kelly
-- 👀 I’m an entrepreneur, cannabis advocate, and software developer.
+- 👀 I’m a blockchain builder, developer advocate, and cannabis advocate.
 - 🌱 Always learning something new.  
 - 💞️ Other orgs: Developer DAO, Women Build Web3, BuildSpace alumni
 
 Current focus: 
 <br><br>
-Cyfrin Updraft courses<br>
-AI and LLMs/NLP<br>
-Python for the AI arena<br>
-Really interested in AI as a tool to elevate e-commerce experiences<br>
-Python bots live on [Replit](https://replit.com/@dawnkelly09) at the moment<br>
-Working on my Bachelor's in Software Engineering. I'd love to know if you have a grant or scholarship for me!<br>
+NEAR ecosystem => Build DAO<br>
 Buildspace<br>
 Developer DAO<br>
 Women Build Web3 DAO<br>
-100 Devs with Leon Noel<br>
+
 Working to build enough front-end skills to make what I can imagine come to life<br>
 
 
