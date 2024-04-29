@@ -5,10 +5,9 @@
 
 Current focus: 
 <br><br>
-NEAR ecosystem => Build DAO<br>
+Decentralized social media<br>
 Buildspace<br>
 Developer DAO<br>
-Women Build Web3 DAO<br>
 
 Working to build enough front-end skills to make what I can imagine come to life<br>
 
