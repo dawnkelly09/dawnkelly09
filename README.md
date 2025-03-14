@@ -1,18 +1,23 @@
 - 👋 Hi, I’m Dawn Kelly
-- 👀 I’m a blockchain builder, developer advocate, and cannabis advocate.
-- 🌱 Always learning something new.  
-- 💞️ Other orgs: Developer DAO, Women Build Web3, BuildSpace alumni
+- 👀 I’m a documentation engineer, Python/LLM/AI tinkerer, and cannabis advocate.
+- 🌱 Learning new things and solving problems is energizing!   
+- 💞️ Other orgs: Developer DAO OG, Women Build Web3, BuildSpace alumni
 
 Current focus: 
 <br><br>
-Decentralized social media<br>
-Buildspace<br>
-Developer DAO<br>
+Documentation best practices<br>
+Python (web dev, LLMs and automation)<br>
+Mkdocs/Material for Mkdocs<br>
+API building and documentation<br>
 
-Working to build enough front-end skills to make what I can imagine come to life<br>
+Documentation contributor for:<br>
+[kluster.ai](https://docs.kluster.ai/)<br>
+[Moonbeam](https://docs.moonbeam.network/)<br>
+[Polkadot](https://docs.polkadot.com/)<br>
+[Tanssi](https://docs.tanssi.network/)<br>
+[Wormhole](https://wormhole.com/docs/)<br>
 
-
-Sometimes I do workshops:<br>
+Sometimes I do workshops. These are a little old but I still like them:<br>
 
 [Filecoin & IPFS 101: 1, 2, Web3 Hackathon with Moralis](https://www.youtube.com/watch?v=aTyP_gZkQy0)
 <br>
