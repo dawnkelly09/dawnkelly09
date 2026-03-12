@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dawn Kelly
-- 👀 I’m a documentation engineer, Python/LLM/AI tinkerer, and cannabis advocate.
+- 👀 I’m a documentation engineer, LLM agent whisperer, and cannabis advocate.
 - 🌱 Learning new things and solving problems is energizing!   
 - 💞️ Other orgs: Developer DAO OG, Women Build Web3, BuildSpace alumni
 
